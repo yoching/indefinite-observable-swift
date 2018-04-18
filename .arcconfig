@@ -19,7 +19,7 @@
       "destination": "platform=iOS Simulator,name=iPhone 6s"
     },
     "coverage": {
-      "product": "IndefiniteObservable.framework/IndefiniteObservable"
+      "product": "IndefiniteObservable.framework/IndefiniteObservable.noindex"
     },
     "pre-build": "pod install"
   }
